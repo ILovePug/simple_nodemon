@@ -6,5 +6,5 @@ A simple version of nodemon that auto restart the program
 2. `npm link`
 
 ### usage
-`watchit -h`
-`watchit test.js`
+- `watchit -h`
+- `watchit test.js`
